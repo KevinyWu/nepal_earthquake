@@ -2,7 +2,7 @@
 
 <img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/nepal.png" alt="drawing" width="350"/>
 
-Using the building struture. dataset from the [2015 Nepal Earthquake: Open Data Portal](http://eq2015.npc.gov.np/#/download), I applied machine learning algorithms with Scikit-Learn and Keras to predict building damage, using Seaborn, Matplotlib, and GeoPandas for visualizations. 
+Using the building struture dataset from the [2015 Nepal Earthquake: Open Data Portal](http://eq2015.npc.gov.np/#/download), I applied machine learning algorithms with Scikit-Learn and Keras to predict building damage, using Seaborn, Matplotlib, and GeoPandas for visualizations. 
 - data: contains original and split data in .zip files, which should be unzipped prior to running the notebook
 - figures: contains high-resolution images of plots and tables pertaining to data exploration, feature engineering, and model selection and results
 - geopandas_map: contains data to generate a choropleth of the affected districts using the GeoPandas library
